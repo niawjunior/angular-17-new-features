@@ -1,0 +1,12 @@
+.nav {
+  height: 50px;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  box-sizing: border-box;
+  div {
+    color: white;
+  }
+}
